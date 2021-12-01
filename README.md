@@ -15,16 +15,16 @@ In this project you'll take this crypto currency tracker app and build two custo
 
 ## Instructions
 ### Task 1: Project Set Up
-* [ ] Create a forked copy of this project.
-* [ ] Clone your OWN version of the repository in your terminal
-* [ ] cd into the project base directory `cd web-module-project-custom-hook`
-* [ ] Download project dependencies by running `npm install`
-* [ ] Start up the app using `npm start`
+* [x] Create a forked copy of this project.
+* [x] Clone your OWN version of the repository in your terminal
+* [x] cd into the project base directory `cd web-module-project-custom-hook`
+* [x] Download project dependencies by running `npm install`
+* [x] Start up the app using `npm start`
 
 ### Task 2: Project Requirements
 #### Build a useDarkMode hook
-* [ ] Create a new folder called `hooks.`
-* [ ] Create a file called `useDarkMode.js`.
+* [x] Create a new folder called `hooks.`
+* [x] Create a file called `useDarkMode.js`.
 * [ ] Build a hook that ONLY setups a boolean state value. This value governs if dark mode is on or off.
 * [ ] Return the slice of state created and the state modification function.
 * [ ] Replace the darkMode state definition with useDarkMode in index.js.
